@@ -20,4 +20,4 @@ const nextSlide = () => {
     }
 }
 
- setInterval(nextSlide,10000);
+ setInterval(nextSlide,1500);
